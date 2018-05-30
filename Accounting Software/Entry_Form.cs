@@ -7,7 +7,7 @@ using System.IO;
 
 namespace Accounting_Software
 {
-    class Entry_Form //test//
+    class Entry_Form
     {
             // method that reads the entry_Form.csv file and returns that informtation as a String[] array
         public static List<string> RefreshEntries ()
